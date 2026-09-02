@@ -1,0 +1,169 @@
+<?php
+// sitemap.php
+header('Content-Type: application/xml; charset=utf-8');
+echo '<?xml version="1.0" encoding="UTF-8"?>';
+?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?php
+$baseUrl = 'https://www.thiyagi.com';
+
+// Pages to MANUALLY include (with custom settings)
+$pages = [
+    '/' => [
+        'lastmod' => date('Y-m-d'),
+        'changefreq' => 'daily',
+        'priority' => '1.0'
+    ],
+    '/about' => [  // Removed .php
+        'lastmod' => date('Y-m-d', strtotime('-1 week')),
+        'changefreq' => 'monthly',
+        'priority' => '0.8'
+    ],
+    '/contact' => [  // Removed .php
+        'lastmod' => date('Y-m-d', strtotime('-1 month')),
+        'changefreq' => 'monthly',
+        'priority' => '0.8'
+    ]
+];
+
+// Pages to EXCLUDE (will not appear in sitemap)
+$excludedPages = [
+    '/404.php',
+    '/header.php',
+    '/footer.php',
+    '/admin.php',
+    '/config.php',
+    '/sitemaptest.php',
+    '/sitemap.php',
+    '/fix-missing-holiday-content',
+'/final-link-cleanup',
+'/generate-repair-report',
+'/page_sharing',
+'/generate-uk-holidays',
+'/fix-remaining-white-text',
+'/fix-broken-links',
+'/service-center/asus/index',
+'/service-center/asus/service-center',
+'/service-center/xiaomi/index',
+'/service-center/xiaomi/service-center',
+'/service-center/canon/index',
+'/service-center/canon/service-center',
+'/service-center/motorola/index',
+'/service-center/motorola/service-center',
+'/service-center/poco/index',
+'/service-center/poco/index.php',
+'/service-center/poco/service-center',
+'/service-center/tata-motors/index',
+'/service-center/tata-motors/service-center',
+'/service-center/daikin/index',
+'/service-center/daikin/service-center',
+'/service-center/boat/index',
+'/service-center/boat/service-center',
+'/service-center/crompton/index',
+'/service-center/crompton/service-center',
+'/service-center/hero/index',
+'/service-center/hero/service-center',
+'/service-center/godrej/index',
+'/service-center/godrej/service-center',
+'/service-center/alcatel/index',
+'/service-center/alcatel/service-center',
+'/service-center/benq/index',
+'/service-center/benq/service-center',
+'/service-center/tvs/index',
+'/service-center/tvs/service-center',
+'/service-center/dell/index',
+'/service-center/dell/service-center',
+'/service-center/casio/index',
+'/service-center/casio/service-center',
+'/service-center/apple/index',
+'/service-center/apple/info',
+'/service-center/apple/service-center',
+'/service-center/honor/index',
+'/service-center/honor/service-center',
+'/service-center/infinix/index',
+'/service-center/infinix/service-center',
+'/llms-generator',
+'/generate-england-cities',
+'/fix-white-text-colors',
+'/verify-links',
+'/check-missing-content',
+'/fix-city-titles',
+'/fix-flag-images',
+'/add-state-flags',
+'/complete-link-fix',
+'/holiday/usa-holiday/generate-states',
+'/electricity-board/breadcrumb-schema',
+'/holiday/usa-holiday/fix-state-pages',
+'/holiday/usa-holiday/generate-comprehensive-states',
+'/fix-broken-images',
+'/googleb62a814b9aa3f5fa.html'
+];
+
+// Folders to EXCLUDE (will not scan these folders)
+$excludedFolders = [
+    '/admin',
+    '/includes',
+    '/assets',
+    '/css',
+    '/js',
+    '/images'
+];
+
+// Function to remove .php extension
+function removePhpExtension($path) {
+    return preg_replace('/\.php$/', '', $path);
+}
+
+// Function to scan directories recursively
+function scanDirectory($dir, $baseDir, &$foundPages, $excludedPages, $excludedFolders) {
+    $iterator = new RecursiveIteratorIterator(
+        new RecursiveDirectoryIterator($dir, RecursiveDirectoryIterator::SKIP_DOTS),
+        RecursiveIteratorIterator::SELF_FIRST
+    );
+    
+    foreach ($iterator as $file) {
+        $pathname = $file->getPathname();
+        $relativePath = str_replace($baseDir, '', $pathname);
+        $relativePath = str_replace('\\', '/', $relativePath); // Windows compatibility
+        
+        // Skip excluded folders
+        $isExcludedFolder = false;
+        foreach ($excludedFolders as $folder) {
+            if (strpos($relativePath, $folder) === 0) {
+                $isExcludedFolder = true;
+                break;
+            }
+        }
+        if ($isExcludedFolder) continue;
+        
+        if ($file->isFile() && in_array(strtolower($file->getExtension()), ['php', 'html'])) {
+            $cleanPath = removePhpExtension($relativePath);
+            
+            // Skip if excluded or already manually defined
+            if (!in_array($relativePath, $excludedPages) && 
+                !in_array($cleanPath, $excludedPages) && 
+                !isset($foundPages[$cleanPath])) {
+                $foundPages[$cleanPath] = [
+                    'lastmod' => date('Y-m-d', $file->getMTime()),
+                    'changefreq' => 'daily',
+                    'priority' => '1.0'
+                ];
+            }
+        }
+    }
+}
+
+// Scan the document root and all subdirectories
+scanDirectory($_SERVER['DOCUMENT_ROOT'], $_SERVER['DOCUMENT_ROOT'], $pages, $excludedPages, $excludedFolders);
+
+// Generate the sitemap
+foreach ($pages as $path => $data) {
+    echo '<url>';
+    echo '<loc>' . htmlspecialchars($baseUrl . $path) . '</loc>';
+    echo '<lastmod>' . $data['lastmod'] . '</lastmod>';
+    echo '<changefreq>' . $data['changefreq'] . '</changefreq>';
+    echo '<priority>' . $data['priority'] . '</priority>';
+    echo '</url>';
+}
+?>
+</urlset>

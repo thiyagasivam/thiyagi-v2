@@ -1,0 +1,84 @@
+RewriteEngine On
+
+# Force www and HTTPS
+RewriteCond %{HTTP_HOST} ^thiyagi\.com [NC]
+RewriteRule ^(.*)$ https://www.thiyagi.com/$1 [L,R=301]
+
+# Set custom 404 error page
+ErrorDocument 404 /404.php
+
+# Sitemap rule
+RewriteRule ^sitemap\.xml$ sitemap.php [L]
+
+# Prevent access to .htaccess and other sensitive files
+<Files ".htaccess">
+    Order allow,deny
+    Deny from all
+</Files>
+
+# Remove .php from URL (redirect to clean URL) - but skip directory-based URLs
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/([^.?\s]+)\.php [NC]
+RewriteCond %1 !^(rto-details|electricity-board|service-center|holiday)/ [NC]
+RewriteRule ^ /%1? [R=301,L]
+
+# Directory-based URL rules (highest priority)
+# RTO Details
+RewriteRule ^rto-details/?$ /rto-details/index.php [L]
+
+# Electricity Board  
+RewriteRule ^electricity-board/?$ /electricity-board/index.php [L]
+
+# Service Center
+RewriteRule ^service-center/?$ /service-center/index.php [L]
+
+# Holiday URL Structure
+# Main holiday index
+RewriteRule ^holiday/?$ /holiday/index.php [L]
+
+# UK Holiday URLs
+RewriteRule ^holiday/uk-holiday/?$ /holiday/uk-holiday/index.php [L]
+RewriteRule ^holiday/uk-holiday/england-holidays/?$ /holiday/uk-holiday/england-holidays.php [L]
+RewriteRule ^holiday/uk-holiday/wales-holidays/?$ /holiday/uk-holiday/wales-holidays.php [L]
+RewriteRule ^holiday/uk-holiday/scotland-holidays/?$ /holiday/uk-holiday/scotland-holidays.php [L]
+RewriteRule ^holiday/uk-holiday/northern-ireland-holidays/?$ /holiday/uk-holiday/northern-ireland-holidays.php [L]
+RewriteRule ^holiday/uk-holiday/jersey-holidays/?$ /holiday/uk-holiday/jersey-holidays.php [L]
+RewriteRule ^holiday/uk-holiday/guernsey-holidays/?$ /holiday/uk-holiday/guernsey-holidays.php [L]
+RewriteRule ^holiday/uk-holiday/isle-of-man-holidays/?$ /holiday/uk-holiday/isle-of-man-holidays.php [L]
+
+# England Cities (specific rule for england-cities directory)
+RewriteRule ^holiday/uk-holiday/england-cities/?$ /holiday/uk-holiday/england-cities/index.php [L]
+RewriteRule ^holiday/uk-holiday/england-cities/([a-zA-Z-]+)-holidays/?$ /holiday/uk-holiday/england-cities/$1-holidays.php [L]
+
+# USA Holiday URLs
+RewriteRule ^holiday/usa-holiday/?$ /holiday/usa-holiday/index.php [L]
+RewriteRule ^holiday/usa-holiday/([a-zA-Z-]+)-holidays/?$ /holiday/usa-holiday/$1-holidays.php [L]
+
+# Canada Holiday URLs
+RewriteRule ^holiday/canada-holidays/?$ /holiday/canada-holidays/index.php [L]
+RewriteRule ^holiday/canada-holidays/([a-zA-Z-]+)-holidays/?$ /holiday/canada-holidays/$1-holidays.php [L]
+
+# Australia Holiday URLs
+RewriteRule ^holiday/australia-holidays/?$ /holiday/australia-holidays/index.php [L]
+RewriteRule ^holiday/australia-holidays/([a-zA-Z-]+)-holidays/?$ /holiday/australia-holidays/$1-holidays.php [L]
+
+# Indian Holiday URLs
+RewriteRule ^holiday/indian-holiday/?$ /holiday/indian-holiday/index.php [L]
+RewriteRule ^holiday/indian-holiday/([a-zA-Z-]+)-holidays/?$ /holiday/indian-holiday/$1-holidays.php [L]
+
+# Special pages (clean URLs)
+RewriteRule ^contact/?$ /contact.php [L]
+RewriteRule ^privacy/?$ /privacy.php [L]
+
+# General clean URL handling for root level PHP files (lowest priority)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{DOCUMENT_ROOT}/$1.php -f
+RewriteRule ^([^/]+)/?$ $1.php [L]
+
+# Security headers
+<IfModule mod_headers.c>
+    Header always set X-Frame-Options DENY
+    Header always set X-Content-Type-Options nosniff
+</IfModule>
+
+
