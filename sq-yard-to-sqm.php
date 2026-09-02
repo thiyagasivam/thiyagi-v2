@@ -61,8 +61,8 @@
         
         <!-- Related Converters -->
         <div class="flex flex-wrap justify-center gap-4 text-sm" role="list">
-            <a href="/sqm-to-sq-yard" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-purple-600 hover:text-purple-700" role="listitem">SqM to Sq Yard</a>
-            <a href="/sq-yard-to-sqft" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-purple-600 hover:text-purple-700" role="listitem">Sq Yard to SqFt</a>
+            <a href="/square-meter-to-square-yard" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-purple-600 hover:text-purple-700" role="listitem">SqM to Sq Yard</a>
+            <a href="/square-yard-to-square-feet" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-purple-600 hover:text-purple-700" role="listitem">Sq Yard to SqFt</a>
             <a href="/sq-yard-to-acre" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-purple-600 hover:text-purple-700" role="listitem">Sq Yard to Acre</a>
             <a href="/sqft-to-sq-yard" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-purple-600 hover:text-purple-700" role="listitem">SqFt to Sq Yard</a>
             <a href="/sq-yard-to-hectare" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-purple-600 hover:text-purple-700" role="listitem">Sq Yard to Hectare</a>
