@@ -78,7 +78,7 @@
     <div class="header py-10 mb-8 text-center">
         <div class="container mx-auto px-4">
             <h1 class="font-bold text-3xl md:text-4xl mb-3">Thiyagi Tools Collections</h1>
-            <p class="text-xl mb-0">250+ free online tools for creators, developers & businesses</p>
+            <p class="text-xl mb-0">250+ free online best tools for creators, developers & businesses</p>
         </div>
     </div>
     <div class="container mx-auto px-4">
