@@ -1,0 +1,776 @@
+# Thiyagi Tools
+
+> Thiyagi Tools (thiyagi.com) is a free online platform offering 500+ calculators, unit converters, and digital utilities for developers, content creators, marketers, students, and businesses. Built with 25+ years of digital expertise since 1999.
+
+## Home & Company
+- [Home](https://www.thiyagi.com/): All tool categories
+- [About](https://www.thiyagi.com/about): About Thiyagi Tools
+- [Contact](https://www.thiyagi.com/contact): Contact Thiyagi Tools
+- [Privacy Policy](https://www.thiyagi.com/privacy): Site privacy policy
+- [Terms and Conditions](https://www.thiyagi.com/terms): Site terms of use
+
+## Financial & Loan Calculators
+- [EMI Calculator](https://www.thiyagi.com/emi-calculator): Calculate loan equated monthly installments
+- [Loan Calculator](https://www.thiyagi.com/loan-calculator): General loan repayment calculator
+- [Home Loan EMI Calculator](https://www.thiyagi.com/home-loan-emi-calculator): EMI for home loans
+- [Car Loan EMI Calculator](https://www.thiyagi.com/car-loan-emi-calculator): EMI for car loans
+- [Education Loan EMI Calculator](https://www.thiyagi.com/education-loan-emi-calculator): EMI for education loans
+- [RD Calculator](https://www.thiyagi.com/rd-calculator): Recurring deposit maturity calculator
+- [Post Office RD Calculator](https://www.thiyagi.com/post-office-rd-calculator): India Post RD maturity calculator
+- [FD Calculator](https://www.thiyagi.com/fd-calculator): Fixed deposit maturity calculator
+- [PPF Calculator](https://www.thiyagi.com/ppf-calculator): Public Provident Fund returns calculator
+- [SIP Calculator](https://www.thiyagi.com/sip-calculator): Systematic Investment Plan returns calculator
+- [Step-up SIP Calculator](https://www.thiyagi.com/step-up-sip-calculator): SIP with annual step-up
+- [Lumpsum Calculator](https://www.thiyagi.com/lumpsum-calculator): One-time investment growth calculator
+- [SWP Calculator](https://www.thiyagi.com/swp-calculator): Systematic Withdrawal Plan calculator
+- [Compound Interest Calculator](https://www.thiyagi.com/compound-interest-calculator): Compound interest computation
+- [Simple Interest Calculator](https://www.thiyagi.com/simple-interest-calculator): Simple interest computation
+- [Sukanya Samriddhi Yojana Calculator](https://www.thiyagi.com/sukanya-samriddhi-yojana-calculator): SSY maturity calculator
+- [Inflation Calculator](https://www.thiyagi.com/inflation-calculator): Purchasing power over time
+- [Salary Calculator](https://www.thiyagi.com/salary-calculator): Salary breakdown calculator
+- [Discount Calculator](https://www.thiyagi.com/discount-calculator): Price discount calculator
+- [Sales Tax Calculator](https://www.thiyagi.com/sales-tax-calculator): Sales tax computation
+- [Stock Average Calculator](https://www.thiyagi.com/stock-average-calculator): Average stock buy price
+- [AdSense Calculator](https://www.thiyagi.com/adsense-calculator): Estimate Google AdSense earnings
+- [Currency Converter](https://www.thiyagi.com/currency-converter): Convert between world currencies
+- [Fuel Calculator](https://www.thiyagi.com/fuel-calculator): Trip fuel cost calculator
+- [Fuel Consumption Calculator](https://www.thiyagi.com/fuel-consumption-calculator): Vehicle fuel consumption calculator
+
+## Everyday & Health Calculators
+- [Age Calculator](https://www.thiyagi.com/age-calculator): Calculate age from date of birth
+- [BMI Calculator](https://www.thiyagi.com/bmi-calculator): Body Mass Index calculator
+- [Average Calculator](https://www.thiyagi.com/average-calculator): Calculate the average of numbers
+- [Percentage Calculator](https://www.thiyagi.com/percentage-calculator): Calculate percentages
+- [Grade Calculator](https://www.thiyagi.com/grade-calculator): Calculate academic grades
+- [Confidence Interval Calculator](https://www.thiyagi.com/confidence-interval-calculator): Statistical confidence interval calculator
+- [Male and Female Standards Calculator](https://www.thiyagi.com/male-and-female-standards-calculator): Health/body standards calculator
+- [Hours Calculator](https://www.thiyagi.com/hours-calculator): Calculate hours between times
+- [Toilet Paper Calculator](https://www.thiyagi.com/toilet-paper-calculator): Estimate toilet paper usage
+- [Railway/Bike Parcel Charges Calculator](https://www.thiyagi.com/railway-bike-parcel-charges-calculator): Indian Railways parcel charge estimator
+- [US States Alphabetical Order](https://www.thiyagi.com/us-states-alphabetical-order): Reference list of US states
+
+## Length & Distance Converters
+- [Length Converter](https://www.thiyagi.com/length-converter): Convert between length units (m, cm, ft, in, mile, etc.)
+- [Angstrom to Meter](https://www.thiyagi.com/angstrom-to-meter)
+- [Angstrom to Nanometer](https://www.thiyagi.com/angstrom-to-nanometer)
+- [Centimeter to Micrometer](https://www.thiyagi.com/centimeter-to-micrometer)
+- [Centimeter to Pixel X](https://www.thiyagi.com/centimeter-to-pixel-x)
+- [cm to Feet](https://www.thiyagi.com/cm-to-feet)
+- [cm to Inch](https://www.thiyagi.com/cm-to-inch)
+- [cm to Inches](https://www.thiyagi.com/cm-to-inches)
+- [cm to km](https://www.thiyagi.com/cm-to-km)
+- [cm to m](https://www.thiyagi.com/cm-to-m)
+- [cm to Meter](https://www.thiyagi.com/cm-to-meter)
+- [cm to mm](https://www.thiyagi.com/cm-to-mm)
+- [Cubit (Greek) to Foot](https://www.thiyagi.com/cubit-greek-to-foot)
+- [Decimeter to Meter](https://www.thiyagi.com/decimeter-to-meter)
+- [Feet to cm](https://www.thiyagi.com/feet-to-cm)
+- [Feet to Inches](https://www.thiyagi.com/feet-to-inches)
+- [Feet to Meter](https://www.thiyagi.com/feet-to-meter)
+- [Feet to Meters](https://www.thiyagi.com/feet-to-meters)
+- [Feet to Mile](https://www.thiyagi.com/feet-to-mile)
+- [Feet to Miles](https://www.thiyagi.com/feet-to-miles)
+- [Feet to mm](https://www.thiyagi.com/feet-to-mm)
+- [Feet to Yard](https://www.thiyagi.com/feet-to-yard)
+- [Feet to Yards](https://www.thiyagi.com/feet-to-yards)
+- [Foot to Kilometer](https://www.thiyagi.com/foot-to-kilometer)
+- [Foot to Meter](https://www.thiyagi.com/foot-to-meter)
+- [Foot to Mile (Statute)](https://www.thiyagi.com/foot-to-mile-statute)
+- [Foot (US Survey) to Meter](https://www.thiyagi.com/foot-us-survey-to-meter)
+- [Inch to cm](https://www.thiyagi.com/inch-to-cm)
+- [Inch to Meter](https://www.thiyagi.com/inch-to-meter)
+- [Inch to Mil](https://www.thiyagi.com/inch-to-mil)
+- [Inch to mm](https://www.thiyagi.com/inch-to-mm)
+- [Inch to Pixel X](https://www.thiyagi.com/inch-to-pixel-x)
+- [Inches to cm](https://www.thiyagi.com/inches-to-cm)
+- [Inches to Feet](https://www.thiyagi.com/inches-to-feet)
+- [Inches to Meters](https://www.thiyagi.com/inches-to-meters)
+- [Inches to mm](https://www.thiyagi.com/inches-to-mm)
+- [Inches to Yards](https://www.thiyagi.com/inches-to-yards)
+- [Kilometer to Foot](https://www.thiyagi.com/kilometer-to-foot)
+- [km to cm](https://www.thiyagi.com/km-to-cm)
+- [km to m](https://www.thiyagi.com/km-to-m)
+- [km to Mile](https://www.thiyagi.com/km-to-mile)
+- [km to Miles](https://www.thiyagi.com/km-to-miles)
+- [Light Year to Meter](https://www.thiyagi.com/light-year-to-meter)
+- [Long Cubit to Foot](https://www.thiyagi.com/long-cubit-to-foot)
+- [m to cm](https://www.thiyagi.com/m-to-cm)
+- [m to km](https://www.thiyagi.com/m-to-km)
+- [m to mm](https://www.thiyagi.com/m-to-mm)
+- [Megameter to Meter](https://www.thiyagi.com/megameter-to-meter)
+- [Meter to cm](https://www.thiyagi.com/meter-to-cm)
+- [Meter to Decimeter](https://www.thiyagi.com/meter-to-decimeter)
+- [Meter to Feet](https://www.thiyagi.com/meter-to-feet)
+- [Meter to Foot](https://www.thiyagi.com/meter-to-foot)
+- [Meter to Foot (US Survey)](https://www.thiyagi.com/meter-to-foot-us-survey)
+- [Meter to Inch](https://www.thiyagi.com/meter-to-inch)
+- [Meter to Inches](https://www.thiyagi.com/meter-to-inches)
+- [Meter to Micrometer](https://www.thiyagi.com/meter-to-micrometer)
+- [Meter to Mile](https://www.thiyagi.com/meter-to-mile)
+- [Meter to mm](https://www.thiyagi.com/meter-to-mm)
+- [Meter to Nanometer](https://www.thiyagi.com/meter-to-nanometer)
+- [Meter to Nautical Mile (International)](https://www.thiyagi.com/meter-to-nautical-mile-international)
+- [Meter to Picometer](https://www.thiyagi.com/meter-to-picometer)
+- [Meter to Yard](https://www.thiyagi.com/meter-to-yard)
+- [Meters to Feet](https://www.thiyagi.com/meters-to-feet)
+- [Meters to Inches](https://www.thiyagi.com/meters-to-inches)
+- [Meters to Miles](https://www.thiyagi.com/meters-to-miles)
+- [Meters to Yards](https://www.thiyagi.com/meters-to-yards)
+- [Micrometer to Centimeter](https://www.thiyagi.com/micrometer-to-centimeter)
+- [Micrometer to Inch](https://www.thiyagi.com/micrometer-to-inch)
+- [Micrometer to Meter](https://www.thiyagi.com/micrometer-to-meter)
+- [Micrometer to Millimeter](https://www.thiyagi.com/micrometer-to-millimeter)
+- [Micrometer to Nanometer](https://www.thiyagi.com/micrometer-to-nanometer)
+- [Micron to Inch](https://www.thiyagi.com/micron-to-inch)
+- [Micron to Millimeter](https://www.thiyagi.com/micron-to-millimeter)
+- [Mil to Inch](https://www.thiyagi.com/mil-to-inch)
+- [Mil to Millimeter](https://www.thiyagi.com/mil-to-millimeter)
+- [Mile (Statute) to Foot](https://www.thiyagi.com/mile-statute-to-foot)
+- [Mile (Statute) to Kilometer](https://www.thiyagi.com/mile-statute-to-kilometer)
+- [Mile (Statute) to Meter](https://www.thiyagi.com/mile-statute-to-meter)
+- [Mile to Feet](https://www.thiyagi.com/mile-to-feet)
+- [Mile to Foot (US Survey)](https://www.thiyagi.com/mile-to-foot-us-survey)
+- [Mile to km](https://www.thiyagi.com/mile-to-km)
+- [Mile to Meter](https://www.thiyagi.com/mile-to-meter)
+- [Mile to Nautical Mile (International)](https://www.thiyagi.com/mile-to-nautical-mile-international)
+- [Mile to Yard](https://www.thiyagi.com/mile-to-yard)
+- [Miles to Feet](https://www.thiyagi.com/miles-to-feet)
+- [Miles to km](https://www.thiyagi.com/miles-to-km)
+- [Miles to Meters](https://www.thiyagi.com/miles-to-meters)
+- [Miles to Yards](https://www.thiyagi.com/miles-to-yards)
+- [Millimeter to Micrometer](https://www.thiyagi.com/millimeter-to-micrometer)
+- [Millimeter to Micron](https://www.thiyagi.com/millimeter-to-micron)
+- [Millimeter to Mil](https://www.thiyagi.com/millimeter-to-mil)
+- [Millimeter to Nanometer](https://www.thiyagi.com/millimeter-to-nanometer)
+- [Millimeter to Pixel X](https://www.thiyagi.com/millimeter-to-pixel-x)
+- [mm to cm](https://www.thiyagi.com/mm-to-cm)
+- [mm to Feet](https://www.thiyagi.com/mm-to-feet)
+- [mm to Inch](https://www.thiyagi.com/mm-to-inch)
+- [mm to Inches](https://www.thiyagi.com/mm-to-inches)
+- [mm to m](https://www.thiyagi.com/mm-to-m)
+- [mm to Meter](https://www.thiyagi.com/mm-to-meter)
+- [Nanometer to Angstrom](https://www.thiyagi.com/nanometer-to-angstrom)
+- [Nanometer to Meter](https://www.thiyagi.com/nanometer-to-meter)
+- [Nanometer to Micrometer](https://www.thiyagi.com/nanometer-to-micrometer)
+- [Picometer to Meter](https://www.thiyagi.com/picometer-to-meter)
+- [Pixel X to Centimeter](https://www.thiyagi.com/pixel-x-to-centimeter)
+- [Pixel X to Inch](https://www.thiyagi.com/pixel-x-to-inch)
+- [Pixel X to Millimeter](https://www.thiyagi.com/pixel-x-to-millimeter)
+- [Point to Inch](https://www.thiyagi.com/point-to-inch)
+- [Yard to Centimeter](https://www.thiyagi.com/yard-to-centimeter)
+- [Yard to Feet](https://www.thiyagi.com/yard-to-feet)
+- [Yard to Meter](https://www.thiyagi.com/yard-to-meter)
+- [Yard to Mile](https://www.thiyagi.com/yard-to-mile)
+- [Yards to Feet](https://www.thiyagi.com/yards-to-feet)
+- [Yards to Inches](https://www.thiyagi.com/yards-to-inches)
+- [Yards to Meters](https://www.thiyagi.com/yards-to-meters)
+- [Yards to Miles](https://www.thiyagi.com/yards-to-miles)
+
+## Area & Land Converters
+- [Area Converter](https://www.thiyagi.com/area-converter): Convert between area units (acre, hectare, sqft, sqm, bigha, etc.)
+- [Acre Foot to Gallon (US)](https://www.thiyagi.com/acre-foot-to-gallon-us)
+- [Acre to Bigha](https://www.thiyagi.com/acre-to-bigha)
+- [Acre to Cent](https://www.thiyagi.com/acre-to-cent)
+- [Acre to Hectare](https://www.thiyagi.com/acre-to-hectare)
+- [Acre to Sqft](https://www.thiyagi.com/acre-to-sqft)
+- [Acre to Sqm](https://www.thiyagi.com/acre-to-sqm)
+- [Acre to Square Kilometer](https://www.thiyagi.com/acre-to-square-kilometer)
+- [Acre to Square Meter](https://www.thiyagi.com/acre-to-square-meter)
+- [Acre to Square Mile](https://www.thiyagi.com/acre-to-square-mile)
+- [Acre to Square Yard](https://www.thiyagi.com/acre-to-square-yard)
+- [Acres to Hectare](https://www.thiyagi.com/acres-to-hectare)
+- [Acres to Square Miles](https://www.thiyagi.com/acres-to-square-miles)
+- [Bigha to Acre](https://www.thiyagi.com/bigha-to-acre)
+- [Bigha to Gaj](https://www.thiyagi.com/bigha-to-gaj)
+- [Bigha to Hectare](https://www.thiyagi.com/bigha-to-hectare)
+- [Bigha to Katha](https://www.thiyagi.com/bigha-to-katha)
+- [Bigha to Sqft](https://www.thiyagi.com/bigha-to-sqft)
+- [Bigha to Sqm](https://www.thiyagi.com/bigha-to-sqm)
+- [Cent to Acre](https://www.thiyagi.com/cent-to-acre)
+- [Cent to Sqft](https://www.thiyagi.com/cent-to-sqft)
+- [Cent to Sqm](https://www.thiyagi.com/cent-to-sqm)
+- [Gaj to Sqft](https://www.thiyagi.com/gaj-to-sqft)
+- [Gaj to Sqm](https://www.thiyagi.com/gaj-to-sqm)
+- [Guntha to Acre](https://www.thiyagi.com/guntha-to-acre)
+- [Guntha to Sqm](https://www.thiyagi.com/guntha-to-sqm)
+- [Hectare to Acre](https://www.thiyagi.com/hectare-to-acre)
+- [Hectare to Acres](https://www.thiyagi.com/hectare-to-acres)
+- [Hectare to Bigha](https://www.thiyagi.com/hectare-to-bigha)
+- [Hectare to Sqft](https://www.thiyagi.com/hectare-to-sqft)
+- [Hectare to Sqm](https://www.thiyagi.com/hectare-to-sqm)
+- [Hectare to Square Hectometer](https://www.thiyagi.com/hectare-to-square-hectometer)
+- [Hectare to Square Meter](https://www.thiyagi.com/hectare-to-square-meter)
+- [Katha to Sqm](https://www.thiyagi.com/katha-to-sqm)
+- [Marla to Square Feet](https://www.thiyagi.com/marla-to-square-feet)
+- [Marla to Square Meter](https://www.thiyagi.com/marla-to-square-meter)
+- [Sq Yard to Sqm](https://www.thiyagi.com/sq-yard-to-sqm)
+- [Sqft to Acre](https://www.thiyagi.com/sqft-to-acre)
+- [Sqft to Cent](https://www.thiyagi.com/sqft-to-cent)
+- [Sqft to Gaj](https://www.thiyagi.com/sqft-to-gaj)
+- [Sqft to Hectare](https://www.thiyagi.com/sqft-to-hectare)
+- [Sqft to Sq Yard](https://www.thiyagi.com/sqft-to-sq-yard)
+- [Sqft to Sqm](https://www.thiyagi.com/sqft-to-sqm)
+- [Sqm to Acre](https://www.thiyagi.com/sqm-to-acre)
+- [Sqm to Cent](https://www.thiyagi.com/sqm-to-cent)
+- [Sqm to Gaj](https://www.thiyagi.com/sqm-to-gaj)
+- [Sqm to Hectare](https://www.thiyagi.com/sqm-to-hectare)
+- [Sqm to Sqft](https://www.thiyagi.com/sqm-to-sqft)
+- [Square Centimeter to Square Feet](https://www.thiyagi.com/square-centimeter-to-square-feet)
+- [Square Centimeter to Square Meter](https://www.thiyagi.com/square-centimeter-to-square-meter)
+- [Square Feet to Square Centimeter](https://www.thiyagi.com/square-feet-to-square-centimeter)
+- [Square Feet to Square Inch](https://www.thiyagi.com/square-feet-to-square-inch)
+- [Square Feet to Square Meter](https://www.thiyagi.com/square-feet-to-square-meter)
+- [Square Feet to Square Yards](https://www.thiyagi.com/square-feet-to-square-yards)
+- [Square Foot to Square Inch](https://www.thiyagi.com/square-foot-to-square-inch)
+- [Square Foot to Square Mile](https://www.thiyagi.com/square-foot-to-square-mile)
+- [Square Inch to Square Feet](https://www.thiyagi.com/square-inch-to-square-feet)
+- [Square Inch to Square Foot](https://www.thiyagi.com/square-inch-to-square-foot)
+- [Square Inch to Square Meter](https://www.thiyagi.com/square-inch-to-square-meter)
+- [Square Meter to Acre](https://www.thiyagi.com/square-meter-to-acre)
+- [Square Meter to Hectare](https://www.thiyagi.com/square-meter-to-hectare)
+- [Square Meter to Square Centimeter](https://www.thiyagi.com/square-meter-to-square-centimeter)
+- [Square Meter to Square Feet](https://www.thiyagi.com/square-meter-to-square-feet)
+- [Square Meter to Square Inch](https://www.thiyagi.com/square-meter-to-square-inch)
+- [Square Meter to Square Yard](https://www.thiyagi.com/square-meter-to-square-yard)
+- [Square Mile to Acre](https://www.thiyagi.com/square-mile-to-acre)
+- [Square Miles to Acres](https://www.thiyagi.com/square-miles-to-acres)
+- [Square Millimeter to Square Meter](https://www.thiyagi.com/square-millimeter-to-square-meter)
+- [Square Yard to Acre](https://www.thiyagi.com/square-yard-to-acre)
+- [Square Yard to Square Feet](https://www.thiyagi.com/square-yard-to-square-feet)
+- [Square Yard to Square Meter](https://www.thiyagi.com/square-yard-to-square-meter)
+- [Square Yards to Square Feet](https://www.thiyagi.com/square-yards-to-square-feet)
+
+## Volume & Capacity Converters
+- [Volume Converter](https://www.thiyagi.com/volume-converter): Convert between volume units (liter, gallon, cc, cup, etc.)
+- [Barrel (US) to Gallon (US)](https://www.thiyagi.com/barrel-us-to-gallon-us)
+- [CC to Cubic Inch](https://www.thiyagi.com/cc-to-cubic-inch)
+- [CC to Cup (US)](https://www.thiyagi.com/cc-to-cup-us)
+- [CC to Fluid Ounce (US)](https://www.thiyagi.com/cc-to-fluid-ounce-us)
+- [CC to Liter](https://www.thiyagi.com/cc-to-liter)
+- [CC to Milliliter](https://www.thiyagi.com/cc-to-milliliter)
+- [CC to ml](https://www.thiyagi.com/cc-to-ml)
+- [CC to Oz](https://www.thiyagi.com/cc-to-oz)
+- [Centiliter to Fluid Ounce (US)](https://www.thiyagi.com/centiliter-to-fluid-ounce-us)
+- [Centiliter to Liter](https://www.thiyagi.com/centiliter-to-liter)
+- [Centiliter to Milliliter](https://www.thiyagi.com/centiliter-to-milliliter)
+- [Cubic Centimeter to Cubic Inch](https://www.thiyagi.com/cubic-centimeter-to-cubic-inch)
+- [Cubic Centimeter to Cubic Meter](https://www.thiyagi.com/cubic-centimeter-to-cubic-meter)
+- [Cubic Centimeter to Liter](https://www.thiyagi.com/cubic-centimeter-to-liter)
+- [Cubic Feet to Cubic Meter](https://www.thiyagi.com/cubic-feet-to-cubic-meter)
+- [Cubic Feet to Cubic Yards](https://www.thiyagi.com/cubic-feet-to-cubic-yards)
+- [Cubic Feet to Gallon](https://www.thiyagi.com/cubic-feet-to-gallon)
+- [Cubic Foot to Cubic Meter](https://www.thiyagi.com/cubic-foot-to-cubic-meter)
+- [Cubic Foot to Liter](https://www.thiyagi.com/cubic-foot-to-liter)
+- [Cubic Foot to Ton Register](https://www.thiyagi.com/cubic-foot-to-ton-register)
+- [Cubic Inch to CC](https://www.thiyagi.com/cubic-inch-to-cc)
+- [Cubic Inch to Cubic Centimeter](https://www.thiyagi.com/cubic-inch-to-cubic-centimeter)
+- [Cubic Inch to Cubic Foot](https://www.thiyagi.com/cubic-inch-to-cubic-foot)
+- [Cubic Inches to Gallons](https://www.thiyagi.com/cubic-inches-to-gallons)
+- [Cubic Inches to Liters](https://www.thiyagi.com/cubic-inches-to-liters)
+- [Cubic Meter to Cubic Feet](https://www.thiyagi.com/cubic-meter-to-cubic-feet)
+- [Cubic Meter to Cubic Foot](https://www.thiyagi.com/cubic-meter-to-cubic-foot)
+- [Cubic Meter to Gallon (US)](https://www.thiyagi.com/cubic-meter-to-gallon-us)
+- [Cubic Meter to Liter](https://www.thiyagi.com/cubic-meter-to-liter)
+- [Cubic Yard to Ton Register](https://www.thiyagi.com/cubic-yard-to-ton-register)
+- [Cubic Yards to Cubic Feet](https://www.thiyagi.com/cubic-yards-to-cubic-feet)
+- [Cup to ml](https://www.thiyagi.com/cup-to-ml)
+- [Cup (US) to Fluid Ounce (US)](https://www.thiyagi.com/cup-us-to-fluid-ounce-us)
+- [Cup (US) to Teaspoon (US)](https://www.thiyagi.com/cup-us-to-teaspoon-us)
+- [Cups to Gallon](https://www.thiyagi.com/cups-to-gallon)
+- [Cups to Liters](https://www.thiyagi.com/cups-to-liters)
+- [Cups to Pint](https://www.thiyagi.com/cups-to-pint)
+- [Cups to Quart](https://www.thiyagi.com/cups-to-quart)
+- [Cups to Tablespoons](https://www.thiyagi.com/cups-to-tablespoons)
+- [Deciliter to Liter](https://www.thiyagi.com/deciliter-to-liter)
+- [Deciliter to Milliliter](https://www.thiyagi.com/deciliter-to-milliliter)
+- [Drop to Milliliter](https://www.thiyagi.com/drop-to-milliliter)
+- [Fluid Ounce (US) to Gallon (US)](https://www.thiyagi.com/fluid-ounce-us-to-gallon-us)
+- [Fluid Ounce (US) to Milliliter](https://www.thiyagi.com/fluid-ounce-us-to-milliliter)
+- [Fluid Ounce (US) to Quart (US)](https://www.thiyagi.com/fluid-ounce-us-to-quart-us)
+- [Fluid Ounce (US) to Teaspoon (US)](https://www.thiyagi.com/fluid-ounce-us-to-teaspoon-us)
+- [Gallon to Cubic Feet](https://www.thiyagi.com/gallon-to-cubic-feet)
+- [Gallon to Cups](https://www.thiyagi.com/gallon-to-cups)
+- [Gallon to Liter](https://www.thiyagi.com/gallon-to-liter)
+- [Gallon to ml](https://www.thiyagi.com/gallon-to-ml)
+- [Gallon to Quart](https://www.thiyagi.com/gallon-to-quart)
+- [Gallon (UK) to Liter](https://www.thiyagi.com/gallon-uk-to-liter)
+- [Gallon (US)/Minute to Liter/Minute](https://www.thiyagi.com/gallon-us-minute-to-liter-minute)
+- [Gallon (US) to Barrel (Oil)](https://www.thiyagi.com/gallon-us-to-barrel-oil)
+- [Gallon (US) to Cubic Meter](https://www.thiyagi.com/gallon-us-to-cubic-meter)
+- [Gallon (US) to Fluid Ounce (US)](https://www.thiyagi.com/gallon-us-to-fluid-ounce-us)
+- [Gallon (US) to Ton Register](https://www.thiyagi.com/gallon-us-to-ton-register)
+- [Gallons to Cubic Inches](https://www.thiyagi.com/gallons-to-cubic-inches)
+- [Kiloliter to Liter](https://www.thiyagi.com/kiloliter-to-liter)
+- [l to ml](https://www.thiyagi.com/l-to-ml)
+- [Liter/Minute to Cubic Foot/Minute](https://www.thiyagi.com/liter-minute-to-cubic-foot-minute)
+- [Liter to CC](https://www.thiyagi.com/liter-to-cc)
+- [Liter to Centiliter](https://www.thiyagi.com/liter-to-centiliter)
+- [Liter to Cubic Centimeter](https://www.thiyagi.com/liter-to-cubic-centimeter)
+- [Liter to Cubic Foot](https://www.thiyagi.com/liter-to-cubic-foot)
+- [Liter to Cubic Meter](https://www.thiyagi.com/liter-to-cubic-meter)
+- [Liter to Deciliter](https://www.thiyagi.com/liter-to-deciliter)
+- [Liter to Gallon](https://www.thiyagi.com/liter-to-gallon)
+- [Liter to Gallon (UK)](https://www.thiyagi.com/liter-to-gallon-uk)
+- [Liter to Kiloliter](https://www.thiyagi.com/liter-to-kiloliter)
+- [Liter to Microliter](https://www.thiyagi.com/liter-to-microliter)
+- [Liter to Ounces](https://www.thiyagi.com/liter-to-ounces)
+- [Liter to Pint](https://www.thiyagi.com/liter-to-pint)
+- [Liter to Quart](https://www.thiyagi.com/liter-to-quart)
+- [Liters to Cubic Inches](https://www.thiyagi.com/liters-to-cubic-inches)
+- [Liters to Cups](https://www.thiyagi.com/liters-to-cups)
+- [Liters to Gallons](https://www.thiyagi.com/liters-to-gallons)
+- [Liters to Pints](https://www.thiyagi.com/liters-to-pints)
+- [Liters to Quarts](https://www.thiyagi.com/liters-to-quarts)
+- [Microliter to Liter](https://www.thiyagi.com/microliter-to-liter)
+- [Microliter to Milliliter](https://www.thiyagi.com/microliter-to-milliliter)
+- [Milliliter to CC](https://www.thiyagi.com/milliliter-to-cc)
+- [Milliliter to Cubic Meter](https://www.thiyagi.com/milliliter-to-cubic-meter)
+- [Milliliter to Deciliter](https://www.thiyagi.com/milliliter-to-deciliter)
+- [Milliliter to Drop](https://www.thiyagi.com/milliliter-to-drop)
+- [Milliliter to Fluid Ounce (UK)](https://www.thiyagi.com/milliliter-to-fluid-ounce-uk)
+- [Milliliter to Fluid Ounce (US)](https://www.thiyagi.com/milliliter-to-fluid-ounce-us)
+- [Milliliter to Microliter](https://www.thiyagi.com/milliliter-to-microliter)
+- [Milliliter to Quart (US)](https://www.thiyagi.com/milliliter-to-quart-us)
+- [Milliliter to Tablespoon (US)](https://www.thiyagi.com/milliliter-to-tablespoon-us)
+- [Milliliter to Teaspoon (Metric)](https://www.thiyagi.com/milliliter-to-teaspoon-metric)
+- [ml to CC](https://www.thiyagi.com/ml-to-cc)
+- [ml to Cup](https://www.thiyagi.com/ml-to-cup)
+- [ml to Cups](https://www.thiyagi.com/ml-to-cups)
+- [ml to Gallon](https://www.thiyagi.com/ml-to-gallon)
+- [ml to l](https://www.thiyagi.com/ml-to-l)
+- [ml to Ounce](https://www.thiyagi.com/ml-to-ounce)
+- [ml to Tablespoon](https://www.thiyagi.com/ml-to-tablespoon)
+- [ml to Teaspoon](https://www.thiyagi.com/ml-to-teaspoon)
+- [Ounce to ml](https://www.thiyagi.com/ounce-to-ml)
+- [Ounces to Liter](https://www.thiyagi.com/ounces-to-liter)
+- [Oz to CC](https://www.thiyagi.com/oz-to-cc)
+- [Pint to Cups](https://www.thiyagi.com/pint-to-cups)
+- [Pint to Liter](https://www.thiyagi.com/pint-to-liter)
+- [Pint to ml](https://www.thiyagi.com/pint-to-ml)
+- [Pint (US) to Quart (US)](https://www.thiyagi.com/pint-us-to-quart-us)
+- [Pints to Gallon](https://www.thiyagi.com/pints-to-gallon)
+- [Pints to Liters](https://www.thiyagi.com/pints-to-liters)
+- [Quart to Cups](https://www.thiyagi.com/quart-to-cups)
+- [Quart to Gallon](https://www.thiyagi.com/quart-to-gallon)
+- [Quart to Liter](https://www.thiyagi.com/quart-to-liter)
+- [Quart (US) to Cubic Foot](https://www.thiyagi.com/quart-us-to-cubic-foot)
+- [Quart (US) to Fluid Ounce (US)](https://www.thiyagi.com/quart-us-to-fluid-ounce-us)
+- [Quart (US) to Milliliter](https://www.thiyagi.com/quart-us-to-milliliter)
+- [Quart (US) to Pint (US)](https://www.thiyagi.com/quart-us-to-pint-us)
+- [Quarts to Liters](https://www.thiyagi.com/quarts-to-liters)
+- [Tablespoon to ml](https://www.thiyagi.com/tablespoon-to-ml)
+- [Tablespoon (US) to Milliliter](https://www.thiyagi.com/tablespoon-us-to-milliliter)
+- [Tablespoons to Cups](https://www.thiyagi.com/tablespoons-to-cups)
+- [Teaspoon to ml](https://www.thiyagi.com/teaspoon-to-ml)
+- [Teaspoon (US) to Cup (US)](https://www.thiyagi.com/teaspoon-us-to-cup-us)
+- [Ton Register to Cubic Yard](https://www.thiyagi.com/ton-register-to-cubic-yard)
+- [Ton Register to Gallon (US)](https://www.thiyagi.com/ton-register-to-gallon-us)
+
+## Weight & Mass Converters
+- [Weight and Mass Converter](https://www.thiyagi.com/weight-and-mass-converter): Convert between weight/mass units (kg, lb, gram, ounce, etc.)
+- [Atomic Mass Unit to Kilogram](https://www.thiyagi.com/atomic-mass-unit-to-kilogram)
+- [Centigram to Gram](https://www.thiyagi.com/centigram-to-gram)
+- [Decigram to Gram](https://www.thiyagi.com/decigram-to-gram)
+- [g to kg](https://www.thiyagi.com/g-to-kg)
+- [Grain to Gram](https://www.thiyagi.com/grain-to-gram)
+- [Grain to Ounce](https://www.thiyagi.com/grain-to-ounce)
+- [Grain to Pound](https://www.thiyagi.com/grain-to-pound)
+- [Gram to Centigram](https://www.thiyagi.com/gram-to-centigram)
+- [Gram to Decigram](https://www.thiyagi.com/gram-to-decigram)
+- [Gram to Grain](https://www.thiyagi.com/gram-to-grain)
+- [Gram to kg](https://www.thiyagi.com/gram-to-kg)
+- [Gram to Microgram](https://www.thiyagi.com/gram-to-microgram)
+- [Gram to Ounce](https://www.thiyagi.com/gram-to-ounce)
+- [Gram to Pennyweight](https://www.thiyagi.com/gram-to-pennyweight)
+- [Grams to Milligrams](https://www.thiyagi.com/grams-to-milligrams)
+- [Grams to Ounces](https://www.thiyagi.com/grams-to-ounces)
+- [Grams to Pounds](https://www.thiyagi.com/grams-to-pounds)
+- [kg to g](https://www.thiyagi.com/kg-to-g)
+- [kg to Gram](https://www.thiyagi.com/kg-to-gram)
+- [kg to Lbs](https://www.thiyagi.com/kg-to-lbs)
+- [kg to Oz](https://www.thiyagi.com/kg-to-oz)
+- [kg to Pound](https://www.thiyagi.com/kg-to-pound)
+- [kg to Stone](https://www.thiyagi.com/kg-to-stone)
+- [kg to Ton](https://www.thiyagi.com/kg-to-ton)
+- [Kilogram to Milligram](https://www.thiyagi.com/kilogram-to-milligram)
+- [Kilogram to Ton (Metric)](https://www.thiyagi.com/kilogram-to-ton-metric)
+- [Kilogram to Tonne](https://www.thiyagi.com/kilogram-to-tonne)
+- [Kip to Pound](https://www.thiyagi.com/kip-to-pound)
+- [Lbs to kg](https://www.thiyagi.com/lbs-to-kg)
+- [Lbs to Ton](https://www.thiyagi.com/lbs-to-ton)
+- [Microgram to Gram](https://www.thiyagi.com/microgram-to-gram)
+- [Microgram to Milligram](https://www.thiyagi.com/microgram-to-milligram)
+- [Microgram to Nanogram](https://www.thiyagi.com/microgram-to-nanogram)
+- [Milligram to Kilogram](https://www.thiyagi.com/milligram-to-kilogram)
+- [Milligram to Microgram](https://www.thiyagi.com/milligram-to-microgram)
+- [Milligram to Nanogram](https://www.thiyagi.com/milligram-to-nanogram)
+- [Milligram to Ounce](https://www.thiyagi.com/milligram-to-ounce)
+- [Milligrams to Grams](https://www.thiyagi.com/milligrams-to-grams)
+- [Nanogram to Microgram](https://www.thiyagi.com/nanogram-to-microgram)
+- [Nanogram to Milligram](https://www.thiyagi.com/nanogram-to-milligram)
+- [Ounce to Grain](https://www.thiyagi.com/ounce-to-grain)
+- [Ounce to Gram](https://www.thiyagi.com/ounce-to-gram)
+- [Ounce to Milligram](https://www.thiyagi.com/ounce-to-milligram)
+- [Ounce to Quarter (US)](https://www.thiyagi.com/ounce-to-quarter-us)
+- [Ounces to Grams](https://www.thiyagi.com/ounces-to-grams)
+- [Ounces to Pounds](https://www.thiyagi.com/ounces-to-pounds)
+- [Oz to kg](https://www.thiyagi.com/oz-to-kg)
+- [Pound to kg](https://www.thiyagi.com/pound-to-kg)
+- [Pound to Kip](https://www.thiyagi.com/pound-to-kip)
+- [Pound to Slug](https://www.thiyagi.com/pound-to-slug)
+- [Pound to Stone (UK)](https://www.thiyagi.com/pound-to-stone-uk)
+- [Pounds to Grams](https://www.thiyagi.com/pounds-to-grams)
+- [Pounds to Ounces](https://www.thiyagi.com/pounds-to-ounces)
+- [Stone to kg](https://www.thiyagi.com/stone-to-kg)
+- [Stone to Lbs](https://www.thiyagi.com/stone-to-lbs)
+- [Stone to Pound](https://www.thiyagi.com/stone-to-pound)
+- [Stone (UK) to Pound](https://www.thiyagi.com/stone-uk-to-pound)
+- [Ton to kg](https://www.thiyagi.com/ton-to-kg)
+- [Ton to Lbs](https://www.thiyagi.com/ton-to-lbs)
+- [Tonne to Kilogram](https://www.thiyagi.com/tonne-to-kilogram)
+- [Tonne to Pound](https://www.thiyagi.com/tonne-to-pound)
+
+## Temperature Converters
+- [Temperature Converter](https://www.thiyagi.com/temperature-converterl): Convert between Celsius, Fahrenheit, Kelvin, Rankine
+- [Celsius to Fahrenheit](https://www.thiyagi.com/celsius-to-fahrenheit)
+- [Celsius to Kelvin](https://www.thiyagi.com/celsius-to-kelvin)
+- [Celsius to Rankine](https://www.thiyagi.com/celsius-to-rankine)
+- [Fahrenheit to Celsius](https://www.thiyagi.com/fahrenheit-to-celsius)
+- [Fahrenheit to Kelvin](https://www.thiyagi.com/fahrenheit-to-kelvin)
+- [Fahrenheit to Rankine](https://www.thiyagi.com/fahrenheit-to-rankine)
+- [Kelvin to Celsius](https://www.thiyagi.com/kelvin-to-celsius)
+- [Kelvin to Fahrenheit](https://www.thiyagi.com/kelvin-to-fahrenheit)
+
+## Pressure Converters
+- [Pressure Converter](https://www.thiyagi.com/pressure-converter): Convert between pressure units (bar, psi, pascal, atm, etc.)
+- [Bar to Kilopascal](https://www.thiyagi.com/bar-to-kilopascal)
+- [Bar to Pascal](https://www.thiyagi.com/bar-to-pascal)
+- [Bar to Psi](https://www.thiyagi.com/bar-to-psi)
+- [Bar to Standard Atmosphere](https://www.thiyagi.com/bar-to-standard-atmosphere)
+- [Gigapascal to Pascal](https://www.thiyagi.com/gigapascal-to-pascal)
+- [Gigapascal to Psi](https://www.thiyagi.com/gigapascal-to-psi)
+- [Kilopascal to Bar](https://www.thiyagi.com/kilopascal-to-bar)
+- [Kpa to Psi](https://www.thiyagi.com/kpa-to-psi)
+- [Ksi to Megapascal](https://www.thiyagi.com/ksi-to-megapascal)
+- [Megapascal to Bar](https://www.thiyagi.com/megapascal-to-bar)
+- [Megapascal to Gigapascal](https://www.thiyagi.com/megapascal-to-gigapascal)
+- [Megapascal to Kilopascal](https://www.thiyagi.com/megapascal-to-kilopascal)
+- [Megapascal to Newton/Square Meter](https://www.thiyagi.com/megapascal-to-newton-square-meter)
+- [Megapascal to Pascal](https://www.thiyagi.com/megapascal-to-pascal)
+- [Megapascal to Psi](https://www.thiyagi.com/megapascal-to-psi)
+- [Millibar to Psi](https://www.thiyagi.com/millibar-to-psi)
+- [Newton/Square Meter to Psi](https://www.thiyagi.com/newton-square-meter-to-psi)
+- [Pascal to Bar](https://www.thiyagi.com/pascal-to-bar)
+- [Pascal to Kilopascal](https://www.thiyagi.com/pascal-to-kilopascal)
+- [Pascal to Megapascal](https://www.thiyagi.com/pascal-to-megapascal)
+- [Pascal to Newton/Square Meter](https://www.thiyagi.com/pascal-to-newton-square-meter)
+- [Pascal to Psi](https://www.thiyagi.com/pascal-to-psi)
+- [Pascal to Standard Atmosphere](https://www.thiyagi.com/pascal-to-standard-atmosphere)
+- [Pound-force/Square Foot to Psi](https://www.thiyagi.com/pound-force-square-foot-to-psi)
+- [Psi to Bar](https://www.thiyagi.com/psi-to-bar)
+- [Psi to Foot of Water (60°F)](https://www.thiyagi.com/psi-to-foot-water-60-176-f)
+- [Psi to Kpa](https://www.thiyagi.com/psi-to-kpa)
+- [Psi to Ksi](https://www.thiyagi.com/psi-to-ksi)
+- [Psi to Megapascal](https://www.thiyagi.com/psi-to-megapascal)
+- [Psi to Newton/Square Meter](https://www.thiyagi.com/psi-to-newton-square-meter)
+- [Psi to Pascal](https://www.thiyagi.com/psi-to-pascal)
+- [Psi to Pound-force/Square Foot](https://www.thiyagi.com/psi-to-pound-force-square-foot)
+- [Psi to Pound-force/Square Inch](https://www.thiyagi.com/psi-to-pound-force-square-inch)
+- [Psi to Standard Atmosphere](https://www.thiyagi.com/psi-to-standard-atmosphere)
+- [Standard Atmosphere to Kilopascal](https://www.thiyagi.com/standard-atmosphere-to-kilopascal)
+- [Standard Atmosphere to Pascal](https://www.thiyagi.com/standard-atmosphere-to-pascal)
+- [Standard Atmosphere to Psi](https://www.thiyagi.com/standard-atmosphere-to-psi)
+
+## Force & Torque Converters
+- [Force Converter](https://www.thiyagi.com/force-converterl): Convert between force units (newton, pound-force, etc.)
+- [Ft-lb to Nm](https://www.thiyagi.com/ft-lb-to-nm)
+- [kg to Newtons](https://www.thiyagi.com/kg-to-newtons)
+- [Kilonewton to Kilogram-force](https://www.thiyagi.com/kilonewton-to-kilogram-force)
+- [Kilonewton to Newton](https://www.thiyagi.com/kilonewton-to-newton)
+- [Kilonewton to Pound-force](https://www.thiyagi.com/kilonewton-to-pound-force)
+- [Kilonewton to Ton-force (Metric)](https://www.thiyagi.com/kilonewton-to-ton-force-metric)
+- [Lbs to Newtons](https://www.thiyagi.com/lbs-to-newtons)
+- [Newton Meter to Inch-Pound](https://www.thiyagi.com/newton-meter-to-inch-pound)
+- [Newton Meter to Kilogram-force Meter](https://www.thiyagi.com/newton-meter-to-kilogram-force-meter)
+- [Newton Meter to Newton Millimeter](https://www.thiyagi.com/newton-meter-to-newton-millimeter)
+- [Newton Millimeter to Newton Meter](https://www.thiyagi.com/newton-millimeter-to-newton-meter)
+- [Newton to Gram-force](https://www.thiyagi.com/newton-to-gram-force)
+- [Newton to Kilonewton](https://www.thiyagi.com/newton-to-kilonewton)
+- [Newtons to kg](https://www.thiyagi.com/newtons-to-kg)
+- [Newtons to Lbs](https://www.thiyagi.com/newtons-to-lbs)
+- [Nm to Ft-lb](https://www.thiyagi.com/nm-to-ft-lb)
+- [Pound-force Foot to Newton Meter](https://www.thiyagi.com/pound-force-foot-to-newton-meter)
+- [Pound-force Inch to Newton Meter](https://www.thiyagi.com/pound-force-inch-to-newton-meter)
+- [Pound-force to Kilonewton](https://www.thiyagi.com/pound-force-to-kilonewton)
+
+## Energy & Power Converters
+- [BTU (IT)/Hour to Kilowatt](https://www.thiyagi.com/btu-it-hour-to-kilowatt)
+- [BTU (IT)/Hour to MBH](https://www.thiyagi.com/btu-it-hour-to-mbh)
+- [BTU (IT)/Hour to Watt](https://www.thiyagi.com/btu-it-hour-to-watt)
+- [BTU to Ton](https://www.thiyagi.com/btu-to-ton)
+- [Cal to J](https://www.thiyagi.com/cal-to-j)
+- [Cal to Kcal](https://www.thiyagi.com/cal-to-kcal)
+- [Electron-volt to Joule](https://www.thiyagi.com/electron-volt-to-joule)
+- [Horsepower to Kilowatt](https://www.thiyagi.com/horsepower-to-kilowatt)
+- [Horsepower to Watt](https://www.thiyagi.com/horsepower-to-watt)
+- [Hp to kW](https://www.thiyagi.com/hp-to-kw)
+- [Hp to Watts](https://www.thiyagi.com/hp-to-watts)
+- [J to Cal](https://www.thiyagi.com/j-to-cal)
+- [J to kJ](https://www.thiyagi.com/j-to-kj)
+- [Joule to Kilowatt-hour](https://www.thiyagi.com/joule-to-kilowatt-hour)
+- [Kcal to Cal](https://www.thiyagi.com/kcal-to-cal)
+- [Kcal to kJ](https://www.thiyagi.com/kcal-to-kj)
+- [kJ to J](https://www.thiyagi.com/kj-to-j)
+- [kJ to Kcal](https://www.thiyagi.com/kj-to-kcal)
+- [Kilowatt to BTU (IT)/Hour](https://www.thiyagi.com/kilowatt-to-btu-it-hour)
+- [Kilowatt to Horsepower](https://www.thiyagi.com/kilowatt-to-horsepower)
+- [Kilowatt to Megawatt](https://www.thiyagi.com/kilowatt-to-megawatt)
+- [Kilowatt to Pferdestarke (PS)](https://www.thiyagi.com/kilowatt-to-pferdestarke-ps)
+- [Kilowatt to Watt](https://www.thiyagi.com/kilowatt-to-watt)
+- [kW to Hp](https://www.thiyagi.com/kw-to-hp)
+- [MBH to BTU (IT)/Hour](https://www.thiyagi.com/mbh-to-btu-it-hour)
+- [Megajoule to Joule](https://www.thiyagi.com/megajoule-to-joule)
+- [Megawatt to Kilowatt](https://www.thiyagi.com/megawatt-to-kilowatt)
+- [Megawatt to Watt](https://www.thiyagi.com/megawatt-to-watt)
+- [Ton (Refrigeration) to Kilowatt](https://www.thiyagi.com/ton-refrigeration-to-kilowatt)
+- [Ton to BTU](https://www.thiyagi.com/ton-to-btu)
+- [Watt to BTU (IT)/Hour](https://www.thiyagi.com/watt-to-btu-it-hour)
+- [Watt to Horsepower](https://www.thiyagi.com/watt-to-horsepower)
+- [Watt to Kilowatt](https://www.thiyagi.com/watt-to-kilowatt)
+- [Watts to Hp](https://www.thiyagi.com/watts-to-hp)
+
+## Time Converters
+- [Days to Hours](https://www.thiyagi.com/days-to-hours)
+- [Days to Minutes](https://www.thiyagi.com/days-to-minutes)
+- [Days to Months](https://www.thiyagi.com/days-to-months)
+- [Days to Seconds](https://www.thiyagi.com/days-to-seconds)
+- [Days to Years](https://www.thiyagi.com/days-to-years)
+- [Hour to Second](https://www.thiyagi.com/hour-to-second)
+- [Hours to Days](https://www.thiyagi.com/hours-to-days)
+- [Hours to Minutes](https://www.thiyagi.com/hours-to-minutes)
+- [Microsecond to Second](https://www.thiyagi.com/microsecond-to-second)
+- [Millisecond to Hour](https://www.thiyagi.com/millisecond-to-hour)
+- [Millisecond to Minute](https://www.thiyagi.com/millisecond-to-minute)
+- [Milliseconds to Seconds](https://www.thiyagi.com/milliseconds-to-seconds)
+- [Minute to Millisecond](https://www.thiyagi.com/minute-to-millisecond)
+- [Minutes to Days](https://www.thiyagi.com/minutes-to-days)
+- [Minutes to Hours](https://www.thiyagi.com/minutes-to-hours)
+- [Minutes to Seconds](https://www.thiyagi.com/minutes-to-seconds)
+- [Month to Minute](https://www.thiyagi.com/month-to-minute)
+- [Month to Year](https://www.thiyagi.com/month-to-year)
+- [Months to Days](https://www.thiyagi.com/months-to-days)
+- [Nanosecond to Second](https://www.thiyagi.com/nanosecond-to-second)
+- [Second to Hour](https://www.thiyagi.com/second-to-hour)
+- [Second to Nanosecond](https://www.thiyagi.com/second-to-nanosecond)
+- [Seconds to Days](https://www.thiyagi.com/seconds-to-days)
+- [Seconds to Milliseconds](https://www.thiyagi.com/seconds-to-milliseconds)
+- [Seconds to Minutes](https://www.thiyagi.com/seconds-to-minutes)
+- [Week to Hour](https://www.thiyagi.com/week-to-hour)
+- [Years to Days](https://www.thiyagi.com/years-to-days)
+
+## Speed & Acceleration Converters
+- [Acceleration Converter](https://www.thiyagi.com/acceleration-converter): Convert between acceleration units
+- [Average Speed Calculator](https://www.thiyagi.com/average-speed-calculator): Calculate average speed from distance/time
+- [Speed Calculator](https://www.thiyagi.com/speed-calculator): General speed calculator
+- [Feet per Second to Mph](https://www.thiyagi.com/feet-per-second-to-mph)
+- [Knot to Kilometer/Hour](https://www.thiyagi.com/knot-to-kilometer-hour)
+- [Knot to Mph](https://www.thiyagi.com/knot-to-mph)
+- [Kph to Meters per Second](https://www.thiyagi.com/kph-to-meters-per-second)
+- [Kph to Mph](https://www.thiyagi.com/kph-to-mph)
+- [Meter/Hour to Meter/Second](https://www.thiyagi.com/meter-hour-to-meter-second)
+- [Meters per Second to Miles per Hour](https://www.thiyagi.com/meters-per-second-to-miles-per-hour)
+- [Mile/Hour to Mile/Minute](https://www.thiyagi.com/mile-hour-to-mile-minute)
+- [Miles per Hour to Meters per Second](https://www.thiyagi.com/miles-per-hour-to-meters-per-second)
+- [Mph to Feet per Second](https://www.thiyagi.com/mph-to-feet-per-second)
+- [Mph to Knot](https://www.thiyagi.com/mph-to-knot)
+- [Mph to Kph](https://www.thiyagi.com/mph-to-kph)
+
+## Digital Storage & Data Rate Converters
+- [Byte to Gigabyte](https://www.thiyagi.com/byte-to-gigabyte)
+- [Byte to Kilobyte](https://www.thiyagi.com/byte-to-kilobyte)
+- [Byte to Megabit](https://www.thiyagi.com/byte-to-megabit)
+- [GB to KB](https://www.thiyagi.com/gb-to-kb)
+- [GB to MB](https://www.thiyagi.com/gb-to-mb)
+- [Gigabit to Megabit](https://www.thiyagi.com/gigabit-to-megabit)
+- [Gigabyte to Byte](https://www.thiyagi.com/gigabyte-to-byte)
+- [Gigabyte to Terabyte](https://www.thiyagi.com/gigabyte-to-terabyte)
+- [KB to GB](https://www.thiyagi.com/kb-to-gb)
+- [KB to MB](https://www.thiyagi.com/kb-to-mb)
+- [Kbps to Mbps](https://www.thiyagi.com/kbps-to-mbps)
+- [Kilobyte to Byte](https://www.thiyagi.com/kilobyte-to-byte)
+- [Kilobyte to Megabyte](https://www.thiyagi.com/kilobyte-to-megabyte)
+- [MB to GB](https://www.thiyagi.com/mb-to-gb)
+- [MB to KB](https://www.thiyagi.com/mb-to-kb)
+- [Mbps to Kbps](https://www.thiyagi.com/mbps-to-kbps)
+- [Megabyte to Byte](https://www.thiyagi.com/megabyte-to-byte)
+- [Megabyte to Gigabyte](https://www.thiyagi.com/megabyte-to-gigabyte)
+- [Terabyte to Gigabyte](https://www.thiyagi.com/terabyte-to-gigabyte)
+
+## Electrical, Frequency & Other Science Converters
+- [Current Converter](https://www.thiyagi.com/current-converter): Convert between electrical current units
+- [Ampere to Milliampere](https://www.thiyagi.com/ampere-to-milliampere)
+- [Amps to Milliamps](https://www.thiyagi.com/amps-to-milliamps)
+- [Microampere/Microcoulomb to Coulomb](https://www.thiyagi.com/microcoulomb-to-coulomb)
+- [Microfarad to Farad](https://www.thiyagi.com/microfarad-to-farad)
+- [Milliampere to Ampere](https://www.thiyagi.com/milliampere-to-ampere)
+- [Milliamps to Amps](https://www.thiyagi.com/milliamps-to-amps)
+- [Megohm to Ohm](https://www.thiyagi.com/megohm-to-ohm)
+- [Cycle/Second to Hertz](https://www.thiyagi.com/cycle-second-to-hertz)
+- [Gigahertz to Hertz](https://www.thiyagi.com/gigahertz-to-hertz)
+- [Megahertz to Hertz](https://www.thiyagi.com/megahertz-to-hertz)
+- [Radians to Degrees](https://www.thiyagi.com/radians-to-degrees)
+- [Centipoise to Pascal Second](https://www.thiyagi.com/centipoise-to-pascal-second)
+- [Kilogram/Cubic Meter to Pound/Cubic Foot](https://www.thiyagi.com/kilogram-cubic-meter-to-pound-cubic-foot)
+- [Milligram/Liter to Parts per Million (ppm)](https://www.thiyagi.com/milligram-liter-to-part-million-ppm)
+- [Parts per Million (ppm) to Milligram/Liter](https://www.thiyagi.com/part-million-ppm-to-milligram-liter)
+- [Micro to Milli](https://www.thiyagi.com/micro-to-milli)
+- [Micro to Nano](https://www.thiyagi.com/micro-to-nano)
+- [Milli to Micro](https://www.thiyagi.com/milli-to-micro)
+- [Nano to Micro](https://www.thiyagi.com/nano-to-micro)
+
+## Number Base & Encoding Tools
+- [Binary to Base 10](https://www.thiyagi.com/binary-to-base-10): Convert binary numbers to decimal
+- [Binary Translator](https://www.thiyagi.com/binary-translator): Convert text to/from binary
+- [Decimal to ASCII Converter](https://www.thiyagi.com/decimal-to-ascii-converter): Convert decimal values to ASCII characters
+- [Hex to Decimal](https://www.thiyagi.com/hex-to-decimal): Convert hexadecimal to decimal
+- [Morse Code Translator](https://www.thiyagi.com/morse-code-translator): Convert text to/from Morse code
+
+## Developer & Web Tools
+- [JSON Viewer](https://www.thiyagi.com/json-viewer): Format and inspect JSON
+- [JSON Validator](https://www.thiyagi.com/json-validator): Validate JSON syntax
+- [JSON to JSON Schema](https://www.thiyagi.com/json-to-json-schema): Generate a schema from sample JSON
+- [HTML Beautifier](https://www.thiyagi.com/html-beautifier): Format HTML code
+- [HTML Minifier](https://www.thiyagi.com/html-minifier): Minify HTML code
+- [HTML Decode](https://www.thiyagi.com/html-decode): Decode HTML entities
+- [HTML Encode](https://www.thiyagi.com/html-encode): Encode text to HTML entities
+- [CSS Beautifier](https://www.thiyagi.com/css-beautifier): Format CSS code
+- [CSS Minifier](https://www.thiyagi.com/css-minifier): Minify CSS code
+- [JavaScript Beautifier](https://www.thiyagi.com/javascript-beautifier): Format JavaScript code
+- [JavaScript Minifier](https://www.thiyagi.com/javascript-minifier): Minify JavaScript code
+- [JavaScript Deobfuscator](https://www.thiyagi.com/javascript-deobfuscator): Deobfuscate JavaScript code
+- [URL Encode/Decode](https://www.thiyagi.com/url-encode): Percent-encode or decode URLs
+- [URL Parser](https://www.thiyagi.com/url-parser): Parse URL components
+- [UUID Generator](https://www.thiyagi.com/uuid-generator): Generate random UUIDs
+- [Htaccess Redirect Generator](https://www.thiyagi.com/htaccess-redirect-generator): Generate .htaccess redirect rules
+
+## SEO & Website Tools
+- [Meta Tag Generator](https://www.thiyagi.com/meta-tag-generator): Generate HTML meta tags
+- [Meta Tags Analyzer](https://www.thiyagi.com/meta-tags-analyzer): Analyze a page's meta tags
+- [Open Graph Generator](https://www.thiyagi.com/open-graph-generator): Generate Open Graph tags
+- [Open Graph Checker](https://www.thiyagi.com/open-graph-checker): Check a page's Open Graph tags
+- [Twitter Card Generator](https://www.thiyagi.com/twitter-card-generator): Generate Twitter Card meta tags
+- [Schema Markup Generator](https://www.thiyagi.com/schema-markup-generator): Generate JSON-LD schema markup
+- [Robots.txt Generator](https://www.thiyagi.com/robots-txt-generator): Generate a robots.txt file
+- [Sitemap Generator](https://www.thiyagi.com/sitemap-generator): Generate an XML sitemap
+- [Keyword Density Checker](https://www.thiyagi.com/keyword-density-checker): Analyze keyword density in text
+- [Redirect Checker](https://www.thiyagi.com/redirect-checker): Check URL redirect chains
+- [DNS Records Checker](https://www.thiyagi.com/dns-records-checker): Look up a domain's DNS records
+- [Domain Age Checker](https://www.thiyagi.com/domain-age-checker): Check domain registration age
+- [Domain to IP](https://www.thiyagi.com/domain-to-ip): Resolve a domain to its IP address
+- [Hosting Checker](https://www.thiyagi.com/hosting-checker): Identify a website's hosting provider
+- [Google Cache Checker](https://www.thiyagi.com/google-cache-checker): Check a page's Google cache status
+- [Google Index Checker](https://www.thiyagi.com/google-index-checker): Check if a page is indexed by Google
+- [IP Address Lookup](https://www.thiyagi.com/ip-address-lookup): Look up details for an IP address
+- [What Is My IP](https://www.thiyagi.com/what-is-my-ip): Show the visitor's public IP address
+- [WordPress Theme Detector](https://www.thiyagi.com/wordpress-theme-detector): Detect the WordPress theme of a site
+- [Speed Test](https://www.thiyagi.com/speed-test): Internet connection speed test
+
+## Text Tools & Generators
+- [Word Counter](https://www.thiyagi.com/word_counter): Count words and characters
+- [Sentence Checker](https://www.thiyagi.com/sentence-checker): Check sentence structure and grammar
+- [Uppercase to Lowercase Converter](https://www.thiyagi.com/uppercase-to-lowercase-converter): Convert text case
+- [Bold Text Generator](https://www.thiyagi.com/bold-text-generator): Generate bold Unicode text
+- [Italic Text Generator](https://www.thiyagi.com/italic-text-generator): Generate italic Unicode text
+- [Cursive Text Generator](https://www.thiyagi.com/cursive-text-generator): Generate cursive Unicode text
+- [Strikethrough Text Generator](https://www.thiyagi.com/strikethrough-text-generator): Generate strikethrough Unicode text
+- [Tiny Text Generator](https://www.thiyagi.com/tiny-text-generator): Generate tiny Unicode text
+- [Gothic Font Generator](https://www.thiyagi.com/gothic-font-generator): Generate gothic Unicode fonts
+- [Random Password Generator](https://www.thiyagi.com/random-password-generator): Generate secure passwords
+- [WiFi Password Generator](https://www.thiyagi.com/wifi-password-generator): Generate strong WiFi passwords
+- [Credit Card Generator](https://www.thiyagi.com/credit-card-generator): Generate test credit card numbers
+- [UUID Generator](https://www.thiyagi.com/uuid-generator): Generate random UUIDs
+- [Lucky Number Generator](https://www.thiyagi.com/lucky-number-generator): Generate lucky numbers
+- [Invoice Generator](https://www.thiyagi.com/invoice-generator): Create printable invoices
+- [Disclaimer Generator](https://www.thiyagi.com/disclaimer-generator): Generate a website disclaimer
+- [Privacy Policy Generator](https://www.thiyagi.com/privacy-policy-generator): Generate a privacy policy
+- [Terms and Conditions Generator](https://www.thiyagi.com/terms-and-conditions-generator): Generate terms of service
+
+## Image Tools
+- [Image Converter](https://www.thiyagi.com/image-converter): Convert images between formats
+- [Image Resizer](https://www.thiyagi.com/image-resizer): Resize images
+- [Image Cropper](https://www.thiyagi.com/image-cropper): Crop images
+
+## Video Downloaders
+- [Facebook Video Downloader](https://www.thiyagi.com/facebook-video-downloader): Download Facebook videos
+- [Reddit Video Downloader](https://www.thiyagi.com/reddit-video-downloader): Download Reddit videos
+
+## YouTube Tools
+- [YouTube Title Generator](https://www.thiyagi.com/youtube-title-generator): Generate video title ideas
+- [YouTube Title Extractor](https://www.thiyagi.com/youtube-title-extractor): Extract a video's title
+- [YouTube Title Checker](https://www.thiyagi.com/youtube-title-checker): Check video title length/SEO
+- [YouTube Video Title Capitalizer](https://www.thiyagi.com/youtube-video-title-capitalizer): Capitalize video titles
+- [YouTube Tag Generator](https://www.thiyagi.com/youtube-tag-generator): Generate video tags
+- [YouTube Tag Extractor](https://www.thiyagi.com/youtube-tag-extractor): Extract tags from a video
+- [YouTube Hashtag Generator](https://www.thiyagi.com/youtube-hashtag-generator): Generate video hashtags
+- [YouTube Hashtag Extractor](https://www.thiyagi.com/youtube-hashtag-extractor): Extract hashtags from a video
+- [YouTube Description Generator](https://www.thiyagi.com/youtube-description-generator): Generate video descriptions
+- [YouTube Description Extractor](https://www.thiyagi.com/youtube-description-extractor): Extract a video's description
+- [YouTube Embed Code Generator](https://www.thiyagi.com/youtube-embed-code-generator): Generate video embed code
+- [YouTube Timestamp Link Generator](https://www.thiyagi.com/youtube-timestamp-link-generator): Generate timestamped video links
+- [YouTube Subscribe Link Generator](https://www.thiyagi.com/youtube-subscribe-link-generator): Generate channel subscribe links
+- [YouTube Thumbnail Downloader](https://www.thiyagi.com/youtube-thumbnail-downloader): Download video thumbnails
+- [YouTube Channel Banner Downloader](https://www.thiyagi.com/youtube-channel-banner-downloader): Download channel banners
+- [YouTube Channel Logo Downloader](https://www.thiyagi.com/youtube-channel-logo-downloader): Download channel logos/avatars
+- [YouTube Channel ID](https://www.thiyagi.com/youtube-channel-id): Find a channel's ID
+- [YouTube Channel Search](https://www.thiyagi.com/youtube-channel-search): Search for YouTube channels
+- [YouTube Channel Age Checker](https://www.thiyagi.com/youtube-channel-age-checker): Check a channel's age
+- [YouTube Channel Statistics](https://www.thiyagi.com/youtube-channel-statistics): View channel stats
+- [YouTube Video Statistics](https://www.thiyagi.com/youtube-video-statistics): View video stats
+- [YouTube Video Count Checker](https://www.thiyagi.com/youtube-video-count-checker): Check a channel's video count
+- [YouTube Views Ratio Calculator](https://www.thiyagi.com/youtube-views-ratio-calculator): Calculate like/view ratio
+- [YouTube Region Restriction Checker](https://www.thiyagi.com/youtube-region-restriction-checker): Check video region restrictions
+- [YouTube Money Calculator](https://www.thiyagi.com/youtube-money-calculator): Estimate channel earnings
+- [YouTube Comment Picker](https://www.thiyagi.com/youtube-comment-picker): Pick a random comment (giveaways)
+
+## Electricity Bill Calculators (India, state-wise)
+- [Electricity Board Calculators](https://www.thiyagi.com/electricity-board/): Index of all state electricity bill calculators
+- [Andaman Electricity Bill Calculator](https://www.thiyagi.com/electricity-board/andaman-electricity-bill-calculator.php)
+- [APDCL Electricity Bill Calculator (Assam)](https://www.thiyagi.com/electricity-board/apdcl-electricity-bill-calculator.php)
+- [APSPDCL Electricity Bill Calculator (Andhra Pradesh)](https://www.thiyagi.com/electricity-board/apspdcl-electricity-bill-calculator.php)
+- [Bihar Electricity Bill Calculator](https://www.thiyagi.com/electricity-board/bihar-electricity-bill-calculator.php)
+- [CSPDCL Electricity Bill Calculator (Chhattisgarh)](https://www.thiyagi.com/electricity-board/cspdcl-electricity-bill-calculator.php)
+- [Delhi Electricity Bill Calculator](https://www.thiyagi.com/electricity-board/delhi-electricity-bill-calculator.php)
+- [Goa Electricity Bill Calculator](https://www.thiyagi.com/electricity-board/goa-electricity-bill-calculator.php)
+- [Gujarat Electricity Bill Calculator](https://www.thiyagi.com/electricity-board/gujarat-electricity-bill-calculator.php)
+- [Haryana Electricity Bill Calculator](https://www.thiyagi.com/electricity-board/haryana-electricity-bill-calculator.php)
+- [HPSEBL Electricity Bill Calculator (Himachal Pradesh)](https://www.thiyagi.com/electricity-board/hpsebl-electricity-bill-calculator.php)
+- [JBVNL Electricity Bill Calculator (Jharkhand)](https://www.thiyagi.com/electricity-board/jbvnl-electricity-bill-calculator.php)
+- [JPDCL Electricity Bill Calculator (Kashmir)](https://www.thiyagi.com/electricity-board/jpdcl-electricity-bill-calculator-kashmir.php)
+- [Karnataka Electricity Bill Calculator](https://www.thiyagi.com/electricity-board/karnataka-electricity-bill-calculator.php)
+- [Kerala KSEB Calculator](https://www.thiyagi.com/electricity-board/kerala-kseb-calculator.php)
+- [KSEB Bill Calculator](https://www.thiyagi.com/electricity-board/kseb-bill-calculator.php)
+- [Ladakh Electricity Bill Calculator](https://www.thiyagi.com/electricity-board/ladakh-electricity-bill-calculator.php)
+- [Maharashtra MSEDCL Calculator](https://www.thiyagi.com/electricity-board/maharashtra-msedcl-calculator.php)
+- [Manipur Electricity Bill Calculator](https://www.thiyagi.com/electricity-board/manipur-electricity-bill-calculator.php)
+- [Meghalaya Electricity Bill Calculator](https://www.thiyagi.com/electricity-board/meghalaya-electricity-bill-calculator.php)
+- [Mizoram Electricity Bill Calculator](https://www.thiyagi.com/electricity-board/mizoram-electricity-bill-calculator.php)
+- [MP Electricity Bill Calculator](https://www.thiyagi.com/electricity-board/mp-electricity-bill-calculator.php)
+- [Nagaland Electricity Bill Calculator](https://www.thiyagi.com/electricity-board/nagaland-electricity-bill-calculator.php)
+- [Odisha Electricity Bill Calculator](https://www.thiyagi.com/electricity-board/odisha-electricity-bill-calculator.php)
+- [PSPCL Bill Calculator (Punjab)](https://www.thiyagi.com/electricity-board/pspcl-bill-calculator.php)
+- [Rajasthan Electricity Bill Calculator](https://www.thiyagi.com/electricity-board/rajasthan-electricity-bill-calculator.php)
+- [Sikkim Electricity Bill Calculator](https://www.thiyagi.com/electricity-board/sikkim-electricity-bill-calculator.php)
+- [TNEB Electricity Bill Calculator (Tamil Nadu)](https://www.thiyagi.com/electricity-board/tneb-electricity-bill-calculator.php)
+- [TSECL Electricity Bill Calculator (Tripura)](https://www.thiyagi.com/electricity-board/tsecl-electricity-bill-calculator.php)
+- [TSSPDCL Electricity Bill Calculator (Telangana)](https://www.thiyagi.com/electricity-board/tsspdcl-electricity-bill-calculator.php)
+- [UPCL Electricity Bill Calculator (Uttarakhand)](https://www.thiyagi.com/electricity-board/upcl-electricity-bill-calculator-uttarakhand.php)
+- [UPPCL Bill Calculator (Uttar Pradesh)](https://www.thiyagi.com/electricity-board/uppcl-bill-calculator.php)
+- [WBSEDCL Bill Calculator (West Bengal)](https://www.thiyagi.com/electricity-board/wbsedcl-bill-calculator.php)
+
+## Resources
+- [Public Holidays](https://www.thiyagi.com/holiday/): Public holiday calendars by country (UK, USA, Canada, Australia, India, and more) — see the [sitemap](https://www.thiyagi.com/sitemap.xml) for all individual country/state/city pages
+- [Service Centers](https://www.thiyagi.com/service-center/): Brand service center directories (Apple, Asus, Dell, Honor, Xiaomi, and more)
+- [RTO Details](https://www.thiyagi.com/rto-details/): Indian RTO (Regional Transport Office) code lookup
+
+## Optional
+- [Full XML Sitemap](https://www.thiyagi.com/sitemap.xml): Complete list of all pages on the site

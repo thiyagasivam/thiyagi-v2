@@ -11,13 +11,25 @@ Allow: /
 User-agent: ChatGPT-User
 Allow: /
 
+User-agent: OAI-SearchBot
+Allow: /
+
 User-agent: Google-Extended
+Allow: /
+
+User-agent: Google-CloudVertexBot
 Allow: /
 
 User-agent: ClaudeBot
 Allow: /
 
 User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: anthropic-ai
 Allow: /
 
 User-agent: PerplexityBot
@@ -36,6 +48,48 @@ User-agent: Bytespider
 Allow: /
 
 User-agent: Amazonbot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: cohere-training-data-crawler
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: ImagesiftBot
+Allow: /
+
+User-agent: Timpibot
+Allow: /
+
+User-agent: omgili
+Allow: /
+
+User-agent: omgilibot
+Allow: /
+
+User-agent: Webzio-Extended
+Allow: /
+
+User-agent: ai2bot
 Allow: /
 
 # Sitemaps
