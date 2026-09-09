@@ -69,6 +69,14 @@ RewriteRule ^holiday/indian-holiday/([a-zA-Z-]+)-holidays/?$ /holiday/indian-hol
 RewriteRule ^contact/?$ /contact.php [L]
 RewriteRule ^privacy/?$ /privacy.php [L]
 
+# Legacy/broken links: redirect old /calculators/ URLs to the matching current page
+RewriteRule ^calculators/(zest-money|reliance-home-finance)-personal-loan-emi-calculator/?$ /emi-calculator [R=301,L]
+RewriteRule ^calculators/north-east-small-finance-bank-home-loan-emi-calculator/?$ /home-loan-emi-calculator [R=301,L]
+
+# Legacy value-specific converter URLs (e.g. /kg-to-lbs/26) - redirect to the base converter page
+RewriteCond %{DOCUMENT_ROOT}/$1.php -f
+RewriteRule ^([a-zA-Z0-9-]+)/[0-9]+/?$ /$1 [R=301,L]
+
 # General clean URL handling for root level PHP files (lowest priority)
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
